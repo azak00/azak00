@@ -6,6 +6,9 @@
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/6e5ae7af-69f9-48aa-88bb-2971da5a8cc2" alt="MarineGEO circle logo" style="height: 35px; width:30px;"/> Certifications:</h2>
 
+- [CompTIA Security+](https://www.credly.com/badges/05958354-21c1-442f-b29e-1939ac345041)
+- [CompTIA Advanced Security+](https://www.credly.com/badges/3ef1f5ea-74bc-4e7e-817a-d2e4db537c01)
+
 
 
 <h2>🤳 Connect with me:</h2>
