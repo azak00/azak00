@@ -1,6 +1,6 @@
 <h1>Hi, I'm Azeez! <br/><a href="https://github.com/azak00">Security</a> + </a><a href="https://github.com/azak00"> Devops Engineer</a></h1>
 
-<h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2>
+<h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2> 
 
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/8d184cd4-df38-46fa-ae3b-2d1c93d93ffc" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> DevOps Projects:</h2>
