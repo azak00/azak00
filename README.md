@@ -10,6 +10,13 @@
 - [CompTIA Security+](https://www.credly.com/badges/05958354-21c1-442f-b29e-1939ac345041)
 - [CompTIA Advanced Security+](https://www.credly.com/badges/3ef1f5ea-74bc-4e7e-817a-d2e4db537c01)
 
+<h2>📫 Connect with me:</h2>
+
+  <span style="float: left;">azeezzakariyau@gmail.com</span>
+  
+[<img align="left" alt="Azak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+ [linkedin]: https://linkedin.com/
 
 
 <!--
