@@ -11,6 +11,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/05958354-21c1-442f-b29e-1939ac345041)
 - [CompTIA Advanced Security+](https://www.credly.com/badges/3ef1f5ea-74bc-4e7e-817a-d2e4db537c01)
+- [AWS Certified Cloud](https://www.credly.com/badges/949ebbe5-d5b8-461e-a56a-0c2b9cc40647)      
 
 <h2>📫 Connect with me:</h2>
 
