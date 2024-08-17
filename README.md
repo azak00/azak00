@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azeez! <br/><a href="https://github.com/azak00">Security</a> + </a><a href="https://github.com/azak00"> Devops Engineer</a></h1>
+<h1>Hi, I'm Azeez! <br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Security Engineer</a></h1>
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2> 
 
