@@ -3,9 +3,12 @@
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2> 
 
 + <h3><a href="https://github.com/azak00/SOC-WITH-SIEM">SOC ON Azure Sentinel</a></h3>
++ <h3><a href="https://github.com/azak00/cloud-infra-for-cloud-app">Secure Cloud-native App Deployment</a></h3>
 
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/8d184cd4-df38-46fa-ae3b-2d1c93d93ffc" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> DevOps Projects:</h2>
+
++ <h3><a href="https://github.com/azak00/CI-CD_WITH_JENKINS_AND_AZURE_DEVOPS">CI/CD WITH JENKINS AND AZURE_DEVOPS</a></h3>
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/6e5ae7af-69f9-48aa-88bb-2971da5a8cc2" alt="MarineGEO circle logo" style="height: 35px; width:30px;"/> Certifications:</h2>
 
