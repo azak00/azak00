@@ -1,4 +1,11 @@
-<h1>Hi, I'm Azeez! <br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Security Engineer</a></h1>
+<h1>👋 Hello, I'm Azeez!</h1> 
+<br>
+I am a passionate engineer with a strong background in cloud infrastructure, system security, and DevOps. My journey has spanned from building robust cloud environments to securing them against threats. With hands-on experience in DevOps engineering and a deep understanding of cybersecurity, I focus on creating secure, scalable, and efficient solutions.</br>
+<br>
+Here, you'll find projects that blend my expertise in infrastructure engineering, CI/CD pipelines, and cloud security. I'm always keen to collaborate on innovative projects that push the boundaries of technology while maintaining a strong security posture.
+
+
+<!---<br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Cybersecurity Engineer</a></h1> -->
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2> 
 
