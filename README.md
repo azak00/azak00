@@ -1,9 +1,11 @@
 <h1>👋 Hello, I'm Azeez!</h1> 
 <br>
-I am a passionate engineer with a strong background in cloud infrastructure, system security, and DevOps. My journey has spanned from building robust cloud environments to securing them against threats. With hands-on experience in DevOps engineering and a deep understanding of cybersecurity, I focus on creating secure, scalable, and efficient solutions.</br>
+I'm an Integration Engineer with extensive experience in system integration, automation, and middleware platforms. As I expand my expertise, I am diving deeper into Cloud, DevOps and Security technologies while documenting my journey here through various projects.</br>
 <br>
-Here, you'll find projects that blend my expertise in infrastructure engineering, CI/CD pipelines, and cloud security. I'm always keen to collaborate on innovative projects that push the boundaries of technology while maintaining a strong security posture.
+This repository is where I explore cloud infrastructure (AWS, Azure), CI/CD pipelines, containerization and security. Through hands-on and real-world scenarios, I am continuously building on my technical knowledge and demonstrating how to deliver scalable, secure, and efficient solutions.</br>
 
+<br>
+Feel free to explore my projects. I enjoy working on interesting challenges and don't hesitate to connect if you're open to discussing exciting projects.</br>
 
 <!---<br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Cybersecurity Engineer</a></h1> -->
 
