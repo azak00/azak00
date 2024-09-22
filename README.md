@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Azeez!</h1> 
 <br>
-I'm an Integration Engineer with extensive experience in system integration, automation, and middleware platforms. As I expand my expertise, I am diving deeper into Cloud, DevOps and Security technologies while documenting my journey here through various projects.</br>
+I'm an Integration Engineer with extensive experience in system integration, automation, and managing middleware platforms. As I expand my expertise, I am diving deeper into Cloud, DevOps and Security technologies while documenting my journey here through various projects.</br>
 <br>
 This repository is where I explore cloud infrastructure (AWS, Azure), CI/CD pipelines, containerization and security. Through hands-on and real-world scenarios, I am continuously building on my technical knowledge and demonstrating how to deliver scalable, secure, and efficient solutions.</br>
 
