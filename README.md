@@ -1,21 +1,15 @@
 <h1>👋 Hello, I'm Azeez!</h1> 
  
 <br>
-Senior Engineer with extensive experience in system integration, security, and DevOps. As I expand my technical expertise through hands-on and real-world scenarios, this repository is where I continuously build on my technical knowledge and demonstrate how to deliver scalable, secure, and efficient solutions.</br>
+Security Engineer with extensive experience protecting infrastructure and applications.</br>
 
 <br>
-Feel free to explore my projects. I enjoy working on interesting challenges and don't hesitate to connect if you're open to discussing exciting projects.</br>
+Feel free to explore some of my projects. I enjoy working on interesting challenges and don't hesitate to connect if you're open to discussing exciting projects.</br>
 
-<!---<br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Cybersecurity Engineer</a></h1> -->
-
-<h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Security Works:</h2> 
+<h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Works:</h2> 
 
 + <h3><a href="https://github.com/azak00/SOC-WITH-SIEM">SOC ON Azure Sentinel</a></h3>
 + <h3><a href="https://github.com/azak00/cloud-infra-for-cloud-app">Secure cloud-native App Deployment with ARM Template</a></h3>
-
-
-<h2><img src="https://github.com/azak00/azak00/assets/26345001/8d184cd4-df38-46fa-ae3b-2d1c93d93ffc" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> DevOps Projects:</h2>
-
 + <h3><a href="https://github.com/azak00/CI-CD_WITH_JENKINS_AND_AZURE_DEVOPS">CI/CD WITH JENKINS AND AZURE DEVOPS</a></h3>
 
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/6e5ae7af-69f9-48aa-88bb-2971da5a8cc2" alt="MarineGEO circle logo" style="height: 35px; width:30px;"/> Certifications:</h2>
@@ -24,21 +18,25 @@ Feel free to explore my projects. I enjoy working on interesting challenges and 
 - [CompTIA Advanced Security+](https://www.credly.com/badges/3ef1f5ea-74bc-4e7e-817a-d2e4db537c01)
 - [AWS Certified Cloud](https://www.credly.com/badges/949ebbe5-d5b8-461e-a56a-0c2b9cc40647)      
 
-<h2>📫 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
+<span style="float: right;">azeezzakariyau@gmail.com</span>
+   
 
-  <span style="float: left;">azeezzakariyau@gmail.com</span>
-  
-[<img align="left" alt="Azak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
- [linkedin]: https://www.linkedin.com/in/azeez-zakariyau-33214a73/
+
+
 
 
 <!--
+[linkedin]: https://www.linkedin.com/in/azeez-zakariyau-33214a73/
+<img align="left" alt="Azeez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br/><a href="https://github.com/azak00">DevOps</a> + </a><a href="https://github.com/azak00"> Cybersecurity Engineer</a></h1> 
+<h2><img src="https://github.com/azak00/azak00/assets/26345001/8d184cd4-df38-46fa-ae3b-2d1c93d93ffc" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> DevOps Projects:</h2> 
 <h2>🤳 Connect with me:</h2>
-
+<h2>📫 Connect with me:</h2>
  <img align="left" alt="Azeez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  <img align="left" alt="Azeez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+-->
 
 
 <!--
