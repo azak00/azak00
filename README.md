@@ -1,7 +1,7 @@
 <h1>👋 Hello, I'm Azeez!</h1> 
  
 <br>
-DevSecOps Engineer with extensive experience building secure infrastructure, and automating code delivery. </br>
+ With extensive experience building and integrating secure solutions, and automating code delivery. </br>
 
 <br>
 Feel free to explore some of my projects. I enjoy working on interesting challenges and don't hesitate to connect if you're open to discussing exciting projects.</br>
