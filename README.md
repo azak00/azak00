@@ -1,11 +1,12 @@
-<h1>👋 Hello, I'm Azeez!</h1> 
- 
-<br>
- With extensive experience building and integrating secure solutions, and automating code delivery. </br>
+<h1>👋 Hi, I'm Azeez!</h1> 
 
-<br>
-Feel free to explore some of my projects. I enjoy working on interesting challenges and don't hesitate to connect if you're open to discussing exciting projects.</br>
+<br>🛡️ Security Engineer with experience in Infra & Cloud Hardening.<br/>
 
+<br>🔧 Currently sharing hands-on security projects focused on real-world hardening, detection, and resilience.</br>
+
+<br>🎯 Mission: Build and secure production systems that survive attacks.</br>  
+
+<!--
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Works:</h2> 
 
 + <h3><a href="https://github.com/azak00/SOC-WITH-SIEM">SOC ON Azure Sentinel</a></h3>
@@ -17,10 +18,17 @@ Feel free to explore some of my projects. I enjoy working on interesting challen
 - [CompTIA Security+](https://www.credly.com/badges/05958354-21c1-442f-b29e-1939ac345041)
 - [CompTIA Advanced Security+](https://www.credly.com/badges/3ef1f5ea-74bc-4e7e-817a-d2e4db537c01)
 - [AWS Certified Cloud](https://www.credly.com/badges/949ebbe5-d5b8-461e-a56a-0c2b9cc40647)      
+-->
 
-<h2>🤳 Connect with me:</h2>
+<h3></h3>
+
+ 
+<br>📫 Connect with me:</br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/azeez-zakariyau-33214a73/)
+<br><br/>
 <span style="float: right;">azeezzakariyau@gmail.com</span>
-   
+
 
 
 
