@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Azeez!</h1> 
 
-<br>🛡️ Security Engineer with experience in Infra & Cloud Hardening.<br/>
+<br>🛡️ Security Engineer focused on resilience and defense, with strong expertise in infrastructure and cloud hardening.<br/>  
 
 <br>🔧 Currently sharing hands-on security projects focused on real-world hardening, detection, and resilience.</br>
 
