@@ -2,9 +2,9 @@
 
 <br>🛡️ Security Engineer focused on resilience and defense, with strong expertise in infrastructure and cloud hardening.<br/>  
 
-<br>🔧 Currently sharing hands-on security projects focused on real-world hardening, detection, and resilience.</br>
+<br>🔧 This repo is for sharing my hands-on security projects focused on real-world hardening, detection, and resilience.</br>
 
-<br>🎯 Mission: Build and secure production systems that survive attacks.</br>  
+<br>🎯 Dedicated to building secure production systems that survive attacks.</br>  
 
 <!--
 <h2><img src="https://github.com/azak00/azak00/assets/26345001/c790c4b1-a879-4599-a681-a0e79c335455" alt="MarineGEO circle logo" style="height: 30px; width:30px;"/> Works:</h2> 
