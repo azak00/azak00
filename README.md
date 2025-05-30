@@ -2,7 +2,7 @@
 
 <br>🛡️ Security Engineer focused on resilience and defense, with strong expertise in infrastructure and cloud hardening.<br/>  
 
-<br>🔧 This repo is for sharing my hands-on security projects focused on real-world hardening, detection, and resilience.</br>
+<br>🔧 I have created this repo to share my hands-on security projects focused on real-world hardening, detection, and resilience.</br>
 
 <br>🎯 Dedicated to building secure production systems that survive attacks.</br>  
 
